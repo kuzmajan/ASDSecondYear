@@ -1,0 +1,3 @@
+C:/Users/kuzma/Desktop/PrEgzamin/cmake-build-debug/CMakeFiles/PrEgzamin.dir
+C:/Users/kuzma/Desktop/PrEgzamin/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kuzma/Desktop/PrEgzamin/cmake-build-debug/CMakeFiles/rebuild_cache.dir
